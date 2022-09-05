@@ -16,7 +16,7 @@ Saída:
 */
 
 function converteType(string) {
-  return Number(string);
+  return Number(string)
 }
 
 module.exports = converteType;
